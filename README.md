@@ -1,8 +1,8 @@
-# Munch Catering Backend í½½ï¸
+# Munch Catering Backend ğŸğŸ´
 
 A robust **FastAPI** backend designed for the Munch Catering mobile application. This API handles user authentication, catering searches, and booking management using **MongoDB** as the primary data store.
 
-## íº€ Getting Started
+## ğŸš€ Getting Started
 
 ### 1. Prerequisites
 * Python 3.10+
@@ -37,11 +37,13 @@ Start the development server:
 uvicorn main:app --reload
 ```
 
-## í» ï¸ Tech Stack
+## ğŸ‘¨ğŸ½â€ğŸ’» Tech Stack
 - **Framework:** [FastAPI](https://fastapi.tiangolo.com)
 - **Database:** [MongoDB](https://www.mongodb.com)
 - **Frontend (Mobile):** [BeeWare Toga](https://beeware.org)
 
 ---
 **Team Members:**
-- **Derick** (@rico-del) - Backend & DevOps Lead
+- **Derick** (@rico-del) - Backend & DevOps (Lead)
+- **Sharon Muchui**
+- **John Charo**
